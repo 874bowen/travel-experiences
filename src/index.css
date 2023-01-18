@@ -1,0 +1,21 @@
+/* || RESETS */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+img {
+   display: block;
+}
+
+/* || UTILITY CLASSES */
+.nowrap {
+   white-space: nowrap;
+}
+
+.center {
+   text-align: center;
+}
+
+/* || VARIABLES */
